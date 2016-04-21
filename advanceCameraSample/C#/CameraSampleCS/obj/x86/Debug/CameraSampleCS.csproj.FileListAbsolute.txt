@@ -1,0 +1,12 @@
+C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.csprojResolveAssemblyReference.cache
+C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\App.g.cs
+C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\Controls\Viewfinder.g.cs
+C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\Views\AboutPage.g.cs
+C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\Views\MainPage.g.cs
+C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.g.resources
+C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.Resources.AppResources.resources
+C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.Resources.AppResources.it-IT.resources
+C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.csproj.GenerateResource.Cache
+C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\it-IT\CameraSampleCS.resources.dll
+C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.dll
+C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.pdb
