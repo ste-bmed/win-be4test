@@ -10,3 +10,41 @@ C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\
 C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\it-IT\CameraSampleCS.resources.dll
 C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.dll
 C:\progetti\winmob\first\Advanced Camera Sample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.pdb
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\Bin\x86\Debug\CameraSampleCS.dll
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\Bin\x86\Debug\CameraSampleCS.pdb
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\Bin\x86\Debug\it-IT\CameraSampleCS.resources.dll
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\Bin\x86\Debug\resources.pri
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\Bin\x86\Debug\AppxManifest.xml
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\Bin\x86\Debug\CameraSampleCS.build.appxrecipe
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\Bin\x86\Debug\AppManifest.xaml
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\Bin\x86\Debug\CameraSampleCS.xap
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\Bin\x86\Debug\MediaViewer.dll
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\Bin\x86\Debug\MediaViewer.pdb
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.csprojResolveAssemblyReference.cache
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\App.g.cs
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\Controls\Viewfinder.g.cs
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\Views\AboutPage.g.cs
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\Views\MainPage.g.cs
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.g.resources
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.Resources.AppResources.resources
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.Resources.AppResources.it-IT.resources
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.csproj.GenerateResource.Cache
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\it-IT\CameraSampleCS.resources.dll
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.dll
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\CameraSampleCS.pdb
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\priconfig.xml
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\priconfig.xml.intermediate
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\layout.resfiles
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\layout.resfiles.intermediate
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\resources.resfiles
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\resources.resfiles.intermediate
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\pri.resfiles
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\pri.resfiles.intermediate
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\qualifiers.txt
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\qualifiers.txt.intermediate
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\ProjectArchitectures.txt
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\MDILProjectFiles.xml
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\obj\x86\Debug\XapCacheFile.xml

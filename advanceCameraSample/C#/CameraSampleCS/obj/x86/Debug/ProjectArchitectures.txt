@@ -1,0 +1,2 @@
+C:\progetti\git\win-be4test\advanceCameraSample\C#\CameraSampleCS\CameraSampleCS.csproj;x86
+C:\progetti\git\win-be4test\advanceCameraSample\C#\MediaViewer\MediaViewer.csproj;x86

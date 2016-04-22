@@ -1,0 +1,5 @@
+C:\progetti\git\win-be4test\advanceCameraSample\C#\MediaViewer\Bin\Debug\MediaViewer.dll
+C:\progetti\git\win-be4test\advanceCameraSample\C#\MediaViewer\Bin\Debug\MediaViewer.pdb
+C:\progetti\git\win-be4test\advanceCameraSample\C#\MediaViewer\obj\Debug\MediaViewer.g.resources
+C:\progetti\git\win-be4test\advanceCameraSample\C#\MediaViewer\obj\Debug\MediaViewer.dll
+C:\progetti\git\win-be4test\advanceCameraSample\C#\MediaViewer\obj\Debug\MediaViewer.pdb

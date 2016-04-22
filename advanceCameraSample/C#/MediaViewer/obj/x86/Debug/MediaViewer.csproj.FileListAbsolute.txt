@@ -3,3 +3,8 @@ C:\progetti\winmob\first\Advanced Camera Sample\C#\MediaViewer\Bin\x86\Debug\Med
 C:\progetti\winmob\first\Advanced Camera Sample\C#\MediaViewer\obj\x86\Debug\MediaViewer.g.resources
 C:\progetti\winmob\first\Advanced Camera Sample\C#\MediaViewer\obj\x86\Debug\MediaViewer.dll
 C:\progetti\winmob\first\Advanced Camera Sample\C#\MediaViewer\obj\x86\Debug\MediaViewer.pdb
+C:\progetti\git\win-be4test\advanceCameraSample\C#\MediaViewer\Bin\x86\Debug\MediaViewer.dll
+C:\progetti\git\win-be4test\advanceCameraSample\C#\MediaViewer\Bin\x86\Debug\MediaViewer.pdb
+C:\progetti\git\win-be4test\advanceCameraSample\C#\MediaViewer\obj\x86\Debug\MediaViewer.g.resources
+C:\progetti\git\win-be4test\advanceCameraSample\C#\MediaViewer\obj\x86\Debug\MediaViewer.dll
+C:\progetti\git\win-be4test\advanceCameraSample\C#\MediaViewer\obj\x86\Debug\MediaViewer.pdb
